@@ -1,0 +1,17 @@
+Package: mpf
+Version: 2.1.0
+Architecture: amd64
+Maintainer: <dell@This-PC>
+Installed-Size: 49850
+Filename: pool/main/m/mpf/mpf_2.1.0_amd64.deb
+Size: 50220418
+MD5sum: 80081ec5889e1461fba3a38960eed4c9
+SHA1: 2f9bd2aee6fc50fc156ca23b84417b178a3563e2
+SHA256: 4085172eac4a8ed5822a69873a1d8eab95759ecb36af4c7c522a624c95a5c651
+Section: default
+Priority: optional
+Homepage: http://example.com/no-uri-given
+Description: no description given
+License: unknown
+Vendor: none
+

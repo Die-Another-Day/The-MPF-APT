@@ -4,36 +4,40 @@ Hash: SHA512
 Architectures: amd64
 Codename: stable
 Components: main
-Date: Sat, 20 Jun 2026 05:24:08 +0000
+Date: Sat, 20 Jun 2026 05:27:52 +0000
 Description: MPF APT Repository
 Label: MPF
 Origin: MPF
 Suite: stable
 MD5Sum:
- 8c40b849aff3d1f5702b7e8fca9486d2              162 Release
- cb0acd75bd1702de56b02c5bcabd41e5              353 main/binary-amd64/Packages.gz
+ 05fe4e01dd374968f8434ea267b64e65              162 Release
+ 1df8f4e14cb618bf8abd7b40e3e174c7              462 main/binary-amd64/Packages
+ 24d474cd2cd5a0630aded22e749ae3cb              362 main/binary-amd64/Packages.gz
 SHA1:
- 979d5bd3607a319e9df57fa69511532e05685afc              162 Release
- 3d9fe02452ddcc5953c3e01b6d14e1189a0decc6              353 main/binary-amd64/Packages.gz
+ d48d235343e41ef6e71c83f6f16f4ae83fa28e9e              162 Release
+ 6167df8b7a0f062738dfb14d554c5c34e22bdd6c              462 main/binary-amd64/Packages
+ e939d91da08fb5f2cefffba886c7b986146b876e              362 main/binary-amd64/Packages.gz
 SHA256:
- 28a26ce308c2d566fcb0f60882dc2f80f969e33b2635cb9394319fedd32a3a2f              162 Release
- a564b33e8018e3fe14a0c9f162dddaabaf6f6d9787e459197b08e81580aeddb5              353 main/binary-amd64/Packages.gz
+ d31034de8d92aea982eb63ac17ec9fc9b0e7766f36f99c714135c0add087272b              162 Release
+ 34e02831934a7bc7f6588d15e9f7395eea3b778fad8f7309ac54342f0e67f61c              462 main/binary-amd64/Packages
+ 93d01b3b5115098ab5f6a0039d667bd728839a0ee3dbbbebf5a5fdc938ce0ddf              362 main/binary-amd64/Packages.gz
 SHA512:
- 66378b847dc966860e4f1f9b018296a63ddb1568b98573c331d5abf308937f27e1be5f73369b644081dd219edb86869f9140013155eaf5af2ede5c8711ac28d7              162 Release
- 3fc6687fa57da2d2a135ffa49f3837565a15df5388980341d5323debbb3854cadb11a645a50c3fa6c29ca98a64dc9ad86aa4ee48ba2eeabff77dcecf47fa7941              353 main/binary-amd64/Packages.gz
+ 2d7510d877bb10621ea5402fda612f2d8f99c290f1abbb891b4c9a942f33f89eabc0e71ef72622c0b1b448f162b4a77c8d1669a4d8ae314bb8ff7517fa656f02              162 Release
+ 32ebd527e3fd3a477b1a1887f24b397cf7cf5c2d5d40902433c154d9be7926cb0e5d743040a0e683b262783bd702dace37d2c3934d7fd5fd0ba8c303e3ac61bb              462 main/binary-amd64/Packages
+ 9a44642302f57a252b1b36cdb455635faf17b291b2d33aee7fc3dc85ccebdfcccf7fa8fda65798f21c91a2aa200b2bbd2dff7adb80f12368e04495abf68b1782              362 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEoaem+CUoiY+IA4r/zfbWjEE681IFAmo2JA8ACgkQzfbWjEE6
-81I5rRAAs4X2NOYkAp61kcy2GUZBuGIj7e8GqdjgGa5Crg75heQVxt58u26h5uiu
-xhuoIdCMvm8dQVb1lsIvFlIfskqPHvlupahv6u179QBrXxP4FZcTOp6yZKNqkQ3A
-0vWNRJlooSAeSVcPDqZLHgRGoHOBTMsCdo/R1DEleIrgAE4k0sQUYXdPhtfZjsdj
-fGOggYnOWl6Gsbyu2Hi99n26h4TRzSuHHTao2h/FK63oEopBtToJS6+esT9vW+Yx
-efxQbr7fXsPSr5PiSykK3PrU5PmMmecHzFupTyOoHQVRUI4MSQNe7/CwDwr2R4Rj
-UcfJyHFiLQ/vCU52nTTp/GYWfKzI/Sc1FQFaZwf+v3EkrQ/5tbmvChoZx0M91VoW
-JyuvyPRIQL/SF/NJfnzNwmv7vAxVTVfusAbgRZFluH3uAI4M25iiQmKD6SLsNNlz
-bXLTnuOZJOIqNPJCOCdOVATyBvD76POuOFT7Gi1hkl+JCiRgW+UMg+DwbDoYCpQ9
-b39q7bE0SuOjS50p4lxB/zI52ZtA+84KCDs7tXYuCA9krxKVN5H8rh6tEweWi1yD
-2xQgeeOVwnQvWWQgz9woQwFgjTPBkoRT0YUTXZzYoZDh9FDjZt1D9jUaQ/AmIi7D
-MOcm+UEUaWkPbWWDbqtCiKNT9Ft7Mm8O1nsN+Ty5xt0H/9NOPgk=
-=F5uG
+iQIzBAEBCgAdFiEEoaem+CUoiY+IA4r/zfbWjEE681IFAmo2JOYACgkQzfbWjEE6
+81IaLxAA47kjjiT9oUL9PeLA1AhYIEQkYsHGelLn3lkauedEBSkb/vQYjTDo+fvX
+RCUtsXudZmlT0J2Ik2UTPtAiuPSWBJDz0vCxtGu2AWF5yXEMH3Wt/ainRoyiYqZ0
+WPXXZMcX3+i87ylL+lb7/Ao2bZKjbMGNuYP8CAzklEtM1UwKxQVQRkS3nkD1oMY/
+4oPfOXe7eCw/JelsOU5Kh4PZ1Z9OcVNOsRh4eipgZnCIyqJ1NicsRvHAAXIFChlA
+hJ3TG5koRS3JgrKnr9XYpBdVXh4RSCBKkEviGcXR3iTP5mE24tM5WnkOLd0lJtFj
+xY55Z5tXt2DzN0ks0xn8fnNPMafCPs+tDBn1Bz/hr04RMZo9hriI5cq7Ig2Hj1rx
+NC8x4LQvBwhiCmUw16MsRa5XepC5yBqVoJd+CgBrCDNIBA/WhmThRQqCMhWzFpTU
+vOoqZGe3YYbNzz4oHSy++4LieCdnmzGgkQ9uczusSSs9rWgNywfTzwFJTCZFn/2S
+iNMnpPclKYVWRcan+Iid0cddVtovxqLyVh7xHDY+qcLhhSHdExEQ65vkt9EjGX4+
+nVezGqsWViWMKwKKciXeycI+A/U4Gz8cwNyOuTKK8ssu0ywLO8uWPpYSnWgnGQ2V
+LWUHwIO5YxvIPXXqS1ZZQV+pDPgMwcpsgkZSspt7hDi2Xh26vZE=
+=2wud
 -----END PGP SIGNATURE-----
