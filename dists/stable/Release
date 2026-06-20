@@ -1,13 +1,20 @@
-Date: Sat, 20 Jun 2026 05:07:49 +0000
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Sat, 20 Jun 2026 05:24:08 +0000
+Description: MPF APT Repository
+Label: MPF
+Origin: MPF
+Suite: stable
 MD5Sum:
- 0aacd8e41404fa42ac7ee81a97c22e7d               38 Release
+ 8c40b849aff3d1f5702b7e8fca9486d2              162 Release
  cb0acd75bd1702de56b02c5bcabd41e5              353 main/binary-amd64/Packages.gz
 SHA1:
- 610378648f2aa43eebebbe054ec164758056a3b3               38 Release
+ 979d5bd3607a319e9df57fa69511532e05685afc              162 Release
  3d9fe02452ddcc5953c3e01b6d14e1189a0decc6              353 main/binary-amd64/Packages.gz
 SHA256:
- 22928470a34d08bc487b443271a3b69834adaf97c554e05f71ccaf88932ff322               38 Release
+ 28a26ce308c2d566fcb0f60882dc2f80f969e33b2635cb9394319fedd32a3a2f              162 Release
  a564b33e8018e3fe14a0c9f162dddaabaf6f6d9787e459197b08e81580aeddb5              353 main/binary-amd64/Packages.gz
 SHA512:
- ca509daea7a1df040e13f493dd43ea6c0c3df1e0901e3598ec73b37628eb904879e7e2aa8187bee5aaf33d6c15da3ffb7b9cc52321c8422973927815cf1260d5               38 Release
+ 66378b847dc966860e4f1f9b018296a63ddb1568b98573c331d5abf308937f27e1be5f73369b644081dd219edb86869f9140013155eaf5af2ede5c8711ac28d7              162 Release
  3fc6687fa57da2d2a135ffa49f3837565a15df5388980341d5323debbb3854cadb11a645a50c3fa6c29ca98a64dc9ad86aa4ee48ba2eeabff77dcecf47fa7941              353 main/binary-amd64/Packages.gz
